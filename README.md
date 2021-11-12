@@ -17,6 +17,15 @@ Data Source: samples.json
 
 Figure 1 will show us the belly button dashboard and for the interactive dashboard can be found in the link that follows.
 
+
+
+<p align="center">
+:cow2: <strong> Github Belly Button Interactive Dashboard:https://nayowl.github.io/Belly_button_plotly/ </strong> :cow2:
+</p>
+
+<br>
+
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/88597187/141537910-cc2c6bc2-e2e5-41c8-be54-905145fc4649.png"/>
 </p>
