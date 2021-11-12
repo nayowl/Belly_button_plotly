@@ -31,7 +31,7 @@ Figure 1 will show us the belly button dashboard and for the interactive dashboa
 </p>
 
 <p align="center">
-  <sub> Figure 1 Belly Button Interatctive Dashboard  </sub>
+  <sub> Figure 1 Belly Button Interactive Dashboard  </sub>
 </p>
 
 
