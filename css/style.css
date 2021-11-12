@@ -1,0 +1,48 @@
+body {
+
+    color: black;
+    font-family: Verdana;
+    background-color: black;
+   
+  }
+
+  .jumbotron {
+    background-image: url('../image/splash2.jpg');
+    background-size: 100% 100%;
+    
+    text-align: center;
+    color: transparent;
+    -webkit-background-clip: text;
+	background-clip: text;
+    -webkit-text-stroke: 1px whitesmoke;
+    
+    /* text-shadow: 3px 3px 8px whitesmoke; */
+    
+  } 
+  .well{
+    background-color:burlywood;
+    color:black;
+    font-family: Verdana;
+    border-color:burlywood;
+  }
+  #selDataset{
+    color:black;
+    font-family: Verdana;
+  }
+  .panel{
+    background-color:black;
+    color:whitesmoke;
+    border-color:darkred;
+  }
+  .panel > .panel-heading {
+    background-image: none;
+    background-color:darkred;
+    color: white;
+}
+#Info{
+    background-color: burlywood;
+    font-weight: 90;
+    font-size: smaller;
+    padding: 10px;
+    font-family:  Verdana;
+}
